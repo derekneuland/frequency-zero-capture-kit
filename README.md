@@ -41,7 +41,7 @@ This kit helps you:
 <p align="center">
   <img src="form-screenshot.png" alt="Frequency Zero Form Screenshot" width="600">
 </p>
-
+<p align="center"><em>A live capture form for dropping creative signals into the Frequency Zero archive.</em></p>
 
 ## Example Tags
 
