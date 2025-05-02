@@ -43,6 +43,8 @@ This kit helps you:
 </p>
 <p align="center"><em>A live capture form for dropping creative signals into the Frequency Zero archive.</em></p>
 
+---
+
 ## Example Tags
 
 | Tag           | Meaning |
