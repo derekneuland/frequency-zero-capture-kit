@@ -1,4 +1,3 @@
-![Frequency Zero Capture Kit](./frequency_zero_preview.png)
 # Frequency Zero Capture Kit
 
 This repository contains a self-guided form system for creative signal capture—designed for artists, archivists, and emotionally intelligent shapeshifters.
