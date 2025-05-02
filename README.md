@@ -37,6 +37,9 @@ This kit helps you:
 
 ---
 
+## Example Screenshot
+![Frequency Zero Form Screenshot](form-screenshot.png)
+
 ## Example Tags
 
 | Tag           | Meaning |
