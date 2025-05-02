@@ -38,7 +38,10 @@ This kit helps you:
 ---
 
 ## Example Screenshot
-![Frequency Zero Form Screenshot](form-screenshot.png)
+<p align="center">
+  <img src="form-screenshot.png" alt="Frequency Zero Form Screenshot" width="600">
+</p>
+
 
 ## Example Tags
 
